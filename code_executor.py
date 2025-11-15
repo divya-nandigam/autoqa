@@ -1,0 +1,1 @@
+def run_python_script(p): return {'exit_code':0,'stdout':'','stderr':''}
